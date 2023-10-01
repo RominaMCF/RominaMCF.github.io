@@ -1,0 +1,46 @@
+head {
+  font-size: 60px;
+    }
+
+body
+    {background-color: #A7E8F3;
+    }
+h1{ 
+    margin-left: 460px;
+    }
+h2{background-color: darkgrey;
+   padding: 0px;
+   text-align: center; 
+   margin: 0px;
+ }
+p {
+ color: black;
+ background-color: #B9F3DA;
+ margin: 30px;
+ font-family: 'Bilbo Swash Caps', cursive;
+ font-size: 30px;
+ border: 5px solid black;
+ }
+ * {
+  margin: 20px;
+  padding: 0px;
+  font-size: 30px;
+  font-family: 'Bilbo Swash Caps', cursive;
+ }
+ .bloque1, .bloque2, .bloque3 {
+  width: 150px; 
+  height: 70px;
+  display:inline-flex;
+  text-align: center;
+  margin-inline: 50px;
+  padding: 40px;
+  border: 1px solid black;
+  background-color: lightsteelblue;
+}
+ 
+
+
+  
+
+
+  
